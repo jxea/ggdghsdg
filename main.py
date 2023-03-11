@@ -1,4 +1,4 @@
-import discord, aiosqlite, os, asyncio, time, sys, random, aiohttp, datetime
+import discord, aiosqlite, os, asyncio, time, sys, random, aiohttp, datetime, jishaku
 from datetime import datetime
 from discord.ext import commands, tasks 
 from discord.gateway import DiscordWebSocket
